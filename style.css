@@ -1,0 +1,7 @@
+:root {
+  --primary-color: #4cb050;
+}
+
+.custom-success-color {
+  background-color: var(--primary-color);
+}
